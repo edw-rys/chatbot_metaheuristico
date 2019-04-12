@@ -1,0 +1,98 @@
+personajes familia simpson;personajes familia simpson
+estado civil lisa;casada soltera lisa
+sexo abraham;genero abraham;sexo abraham;genero abraham;sexo abuelo;genero abuelo;sexo abuelo simpson;genero abuelo simpson;sexo homero;genero homero;sexo homero simpson;genero homero simpson;sexo Bart;genero Bart;sexo Bartholomew;genero Bartholomew
+sexo lisa;genero lisa;sexo lisa;genero lisa;sexo marge;genero marge
+ciudad nacimiento abraham;lugar de nacimiento abraham;ciudad nacimiento abuelo simpson;lugar de nacimiento abuelo simpson;lugar de nacimiento lisa;ciudad nacimiento lisa;lugar nacimiento homero;nacimiento homero;país nacimiento homero;país nacimiento abuelo simpson;país nacimiento abraham;país nacimiento marge;lugar nacimiento marge;ciudad nacimiento marge;lugar de nacimiento Bart;ciudad nacimiento Bart;lugar de nacimiento Bartholomew;ciudad nacimiento Bartholomew;ciudad nacio homero;ciudad nació Bart;ciudad nació Marge;ciudad nació Lisa;ciudad nació Maggie;ciudad personajes simpsons;ciudad serie simpson;ciudad estreno simpson
+país nació bart;país nació homero;país nació marge;país nació abuelo simpson;país nació abraham;país nació lisa;país vive lisa;país nacimiento de lisa;país vive homero;país nacimiento de homero;país vive marge;país nacimiento de marge;país vive Bart;país nacimiento de Bart
+nacionalidad lisa;nación lisa;nacionalidad homero;nación homero;nacionalidad marge;nación marge;nacionalidad Bart;nación Bart
+estado civil homero;casado homero;homero soltero
+alias homero;sobrenombre homero
+cuál personaje protagoista simspsons;quién personaje principal;cuál personaje protagoista simspson;padre lisa;padre Marie Simpson;padre bart;padre bartholomew;padre maggie;padre Margaret Abigail;padre Margaret Simpson;vecino protagonista Flanders;vecino protagonista Nedwar;vecino protagonista Ned;cuál esposo Simpson Bouvier;cuál esposo Marjorie;cuál esposo Simpson Marjorie;quién esposo Simpson Bouvier;quién esposo Marjorie;quién esposo Simpson Marjorie
+quién dueño yudante de santa;pertenece ayudante santa;quién dueño Botones Santa;pertenece Botones Santa;quién dueño perro huesos;pertenece perro huesos
+cómo llama perro Bart;cómo llama perro bartholomew;cómo llama mascota Bart;cómo llama mascota bartholomew;cómo llama mascota simpsons;cómo llama perro simpsons;cómo llama mascota simpson;cómo llama perro simpson
+que papel hace homero en la serie;papel homero serie;desarrolla papel serie homero;homero interpreta serie;personalidad homero
+cuántos hijos tiene homero;cuántos hijos tiene marge;cuántos hijos tienen margue homero;cuántos hijos tienen margue simpson
+edad homero;cuántos años tiene homero;edad homero simpson;cuántos años tiene homero simpson
+Ocupaciones de homero;trabajos de homero
+peso homero;cuánto pesa homero
+comida favorita homero;más come homero;comida preferida
+pasatiempos favoritos homero;hace homero tiempo libre;hace homero tiempos libres
+bebida favorita;liquido toma homero;bebida toma homero
+primera aparición homero;aparición homero serie;aparición homero serie simpson
+interpreta voz homero;hace voz homero;interpreta voz homero simpson;hace voz homero simpson
+interpreta voz homero ingles;hace voz homero ingles;interpreta voz homero simpson inglés;hace voz homero simpson ingles
+primer doblaje español de homero;doble primero homero;homero doblado persona
+personas voz doblaje homero;quiénes doblado voz homero;quiénes doblar voz homero
+hasta temporada doblo voz homero españa;españa doblar homero voz temporada;doblado voz homero españa temporada
+proeza homero;mayor esfuerzo homero;mejor esfuerzo homero;mayor logro homero
+gustos musicales homero;musica preferida homero;musicas preferidad homero
+frases homero;dichas frases homero
+hijos de homer;hijos de marge;hijos marge homero;hijos homero
+quién es marge;peronaje marge
+esposo marge simpson;esposos marge
+edad marge;cuántos años tiene marge;años esposa homero;edad esposa homero
+Ocupaciones de marge;trabajos de marge
+marge fue policía;marge fue actriz;marge fue profesora sustituta;marge fue profesora
+pasatiempos favoritos marge;hace marge tiempo libre;hace marge tiempos libres
+ídolo marge;persona admira marge;quién admira marge
+programa no preferido margue;enimigo margue;programa television no preferido Marge;programa tv no preferido Marge;programa television odiado Marge;programa tv odiado Marge
+gustos musicales marge;musica preferida marge;musicas preferidad marge
+frases marge;dichas frases marge
+estado civil margue;margue soltera;margue casada
+alias marge;sobrenombre marge
+alias Bart;alias Bartholomew;sobrenombre Bart;sobrenombre Bartholomew
+un personaje protagonista de la serie los simpsons;hijo de homero y marge
+edad Bart;cuántos años tiene Bart;edad Bartholomew;cuántos años tiene Bartholomew
+Ocupaciones de Bart;profesion de Bart
+personalidad bart;interpreta bart serie;
+es bart molestoso;es Bart gamberro
+años hijo varón homero;años niño hijo homero;años hijo homero;años hijo varón marge;años niño hijo marge;años hijo marge cuál;edad hijo varón homero;edad niño hijo homero;edad hijo homero;edad hijo varón marge;edad niño hijo marge;edad hijo marge cuál
+pasatiempos favoritos Bart;hace Bart tiempo libre;hace Bart tiempos libres
+llama taverna Moe molestar;molesta moe llamándolo;molesta moe llamando
+Bart quién llama molestar;molesta Bart llamadas;molesta Bart llamando
+ídolo Bart;persona admira Bart;quién admira Bart
+programa preferido Bart;programa television preferido Bart;programa tv preferido Bart;programa ve Bart;programa mira Bart
+gustos musicales marge;musica preferida marge;musicas preferidad marge
+frases Bart;dichas frases Bart
+estado civil Bart;casado soltero bart
+mejor amigo Bart;amigo preferido Bart;Super amigo Bart
+mejor amigo Milhose;amigo preferido Milhouse;Super amigo Milhouse
+crador Bart;quién creo Bart;persona ceadora Bart;creador de Bart;creadora de Bart;crador lisa;quién creo lisa;persona ceadora lisa;creador de lisa;creadora de lisa
+mascotas simpsons;mascotas serie
+alias lisa;alias lisa simpson;sobrenombre lisa;sobrenombre lisa
+un personaje protagonista serie simpsons;hija de homero y marge
+edad lisa;cuántos años tiene lisa
+Ocupaciones lisa;profesion lisa;ocupacion lisa;profesion lisa
+personalidad lisa;interpreta lisa serie;
+pasatiempos favoritos lisa;hace lisa tiempo libre;hace lisa tiempos libres
+ídolo lisa;persona admira lisa;quién admira lisa
+programa preferido lisa;programa television preferido lisa;programa tv preferido lisa;programa ve lisa;programa mira lisa
+frases lisa;dichas frases lisa
+amigos lisa;amigo lisa
+Encías Sangrantes
+alias abraham;alias abraham simpson;sobrenombre abraham;sobrenombre abraham;alias abuelo simpson;alias abuelo simpson;sobrenombre abuelo simpson;sobrenombre abuelo simpson
+un personaje protagonista serie simpsons;padre de homero
+edad abraham;cuántos años tiene abraham;edad abuelo simpson;cuántos años tiene abuelo simpson
+Ocupaciones de abraham;profesion de abraham;Ocupaciones de abuelo simpson;profesion de abuelo simpson
+personalidad abraham;interpreta lisa abraham;personalidad abuelo simpson;interpreta lisa abuelo simpson
+frases abuelo simpson;dichas frases abuelo simpson;frases abraham;dichas frases abraham
+familiares abraham;familia abraham;familiares abuelo simpson;familia abuelo simpson
+Herbert Powell
+hermano de homero
+gusta cerveza Duff
+quién es Homero;que papel hace homero;qué se habla homero
+pareja de homero;parejas de homero;parejas de homero serie;pareja de homero simpson;parejas de homero simpson;parejas de homero simpson serie
+esposa homero simpson;esposa homero
+hijas homero;niño hijas homero;hijas homero cuál;hijo varón marge;niño hijas marge;hijas marge cuál
+hijo varón homero;niño hijo homero;hijo homero cuál;hijo varón marge;niño hijo marge;hijo marge cuál
+bebe alcohol serie simpson;beben alcohol serie simpson;bebe alcohol serie simpsons;beben alcohol serie simpsons
+nombre padre homero;llama padre homero
+quién es maggie;peronaje maggie
+quién es lisa;peronaje lisa
+quién es lisa;peronaje lisa
+quién es Abraham;peronaje Abraham
+Bar va homero;bar toma homero;bar toman amigos homero;bar serie simpson;bar serie simpsons;bar cerveza duff
+personaje palabras illo illa;vecino simpsons;vecino homero;vecino marge
+sexo ned flanders;genero ned flanders
+cuantos hijos ned flanders;Cantidad hijos ned flanders
+nombres hijos ned flanders;llaman hijos ned flanders

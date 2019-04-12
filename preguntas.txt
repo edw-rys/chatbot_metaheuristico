@@ -1,0 +1,75 @@
+cómo llamas;nombre tuyo;tu nombre;tu eres;cómo llamas,Cómo conoce a usted
+tus apellidos y nombres;apellidos y nombres tuyos
+cuál tu apellido;cuál apellido tuyo;tu apellido;cómo apellidas
+edad tuya;edad tienes;tu edad;años tienes
+cuidad;donde vives;lugar vives;ciudad vives
+cuanto mides;tu estatura;tu tamaño;cuánto mides
+cómo estas;cómo estás;como estas;cómo te va;que tal;que tal te va;ha ido;ha ido hoy;ha ido semana;ha ido mes;como te fue;qué tal;qué tal te va
+color preferido;color favorito;mejor color
+personaje favorito;personaje admirable;quien admiras;persona admiras;tipo admiras;humano admiras;humano admira;persona admiable;a quién admiras
+lugar trabajo;ciudad trabajo;que trabajas;tu trabajas
+cual hobby;hobby favorito;cuál hobby
+música favorita;musica preferida;música favorita;música preferida;musica te gusta;música te gusta
+superpoder tendrias;superpoder tuvieras;superpoder tendrías
+mayor locura cometido vida
+palabra favorita;palabra más dicha;palabra mas dicha
+frase favorita;frase más dicha;frase mas dicha
+gusta pizza;gusta empanada;gusta mermelada
+comida favorita;comida preferida
+viajar futuro pasado
+podrias descibirte;describete
+animal favorito;animales admirables;animal admiras;animal admira;animal admiable
+lugar gustaria vivir;donde preferirias vivir;prefieres vivir
+tipo sentido humor tienes;nivel humor tuyo;tu nivel humor
+tema conversación favorito;prefieres conversar
+perros gatos;prefieres perros;prefieres gatos;prefiere gato;prefiere perros
+libro favorito;libro preferido;libro gusta
+tu religion;religion prefieres;religion preferida
+mejor recuerdo;recuerdo preferido
+peor recuerdo;recuerdo odiado
+pelicula favorita;pelicula preferida;mejor pelicula
+mejor profesor;profesor preferido
+color preferido;color favorito;mejor color
+actor favorito;actriz favorita
+materia favorita;asignatura favorita;materia preferida;asignatura preferida
+creador tuyo;tu creador;te creó
+capítulo sale osos burns;capítulo aparece osos burns
+es laila montero
+Laila ama al edw;Laila ama tim;Laila ama tim01;Laila ama edward;Laila ama edu
+tu cantas;te gusta cantar
+nombre tu mamá;nombre tu madre
+cómo llama tu padre;cómo llama tu papá
+tu gusta videojuegos;tu gusta juegos
+serie favorita;serie preferida
+videojuego favorito;videojuego preferido
+tienes hermanos;hermanos tienes;hermano tienes;tu hermano;tus hermanos
+te gusta cocinar
+bebida favorita;jugo favorito
+fruta favorita;fruta preferida;mejor fruta;fruta eliges;fruta prefieres
+verdura favorita;verdura preferida;mejor verdura;verdura eliges;verdura prefieres
+clima prefieres;clima favorito;clima preferido
+deporte favorito;deporte preferido;mejor deporte;deporte eliges;deporte prefieres
+bebes alcohol;tu fumas;gustan fiesta;gusta fiesta;gusta fiestas
+eres soltera;estás soltera;eres casada;estás casada
+tienes novio;tu novio
+donde naciste;lugar nacimiento;lugar naciste
+integrantes tu familia;integrantes familia tuya
+tu mejor amigo;tienes mejor amigo;tu mejor amiga;tienes mejor amiga
+hablame de ti
+tú sexo;tú género;eres hombre;eres mujer;eres masculino;eres femenino;eres femenina
+Google Chrome o Internet Explorer;prefieres Chrome;prefieres explorer;prefieres firefox
+Play o Xbox;prefieres Play Station;prefieres Xbox;prefieres Nintendo
+tus redes sociales;redes sociales tuyas;facebook tuyo;tu facebook;tu instagram;instagram tuyo;twitter tuyo;tu twitter
+crees en Dios;creencia algún dios
+no te gusta
+haces ejercicio;te gusta hacer ejercicios
+comes en el dia
+comida no te gusta
+novela preferida;novela favorita
+tipo ropa te gusta;tipo ropa favorita;tipo ropa preferido;tipo ropa preferida
+eres religioso;eres religiosa;tu religión;religión tuya;sigues alguna religión
+agnosticismo;qué es agnóstico;refiere agnóstico;qué es agnóstica;refiere agnóstica
+tu mayor miedo;tu miedo más grande
+color personajes simpsons;color homero;color marge;color simpson;color piel
+Tienda apu
+dueño tienda kwik e mart;dueño tienda kwik-e-mart
